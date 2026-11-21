@@ -1,0 +1,6 @@
+{
+  "name": "Klyvo",
+  "description": "Klyvo AI Assistant by Klyscape — Think. Create. Explore.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
