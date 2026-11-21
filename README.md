@@ -6,7 +6,7 @@ Klyvo is a personal AI assistant web application designed and developed by **Jos
 
 Built with React, TypeScript, and Vite, Klyvo integrates Google's Gemini AI with Supabase authentication and cloud persistence. The application features a responsive ChatGPT-inspired interface, streaming AI responses, account management, and real-time voice sessions powered by the Gemini Live API.
 
-**Live Demo:** http://klyvo.klyscape.com/
+**Live Demo:** https://klyvo.klyscape.com/
 **Developer:** Joseph Gana
 
 ---
